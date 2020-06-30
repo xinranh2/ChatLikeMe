@@ -13,7 +13,7 @@ Summer 2020 Project
 - [Go here for directory structure details](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
 ```
     .
-    ├── src                   # Compiled files (alternatively `dist`)
+    ├── src                  
         ├───assets
         ├───components
         ├───services          # APIs
