@@ -7,6 +7,9 @@ Summer 2020 Project
 - Clone the fork to your computer
 - `cd ChatLikeMe `
 - `npm i`
+- `npx react-native link react-native-dialogflow`
+- `npx react-native link react-native-voice`
+
 
 ## Edit and create Pull Request:
 - git does not track empty directories, so follow this directory structure
