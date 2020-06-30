@@ -12,14 +12,23 @@ Summer 2020 Project
 = git does not track empty directories, so follow this directory structure
 
 |....
+
 ├───src
+
 │   ├───assets
+
 │   ├───components
+
 |   ├───services
+
 |         env.js
+
 |   ├───styles
+
 |   ├───view
+
 │   └───App.js // Main app
+
 
 - [Follow this guide](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
 - Main app contents can be found in `src/`
