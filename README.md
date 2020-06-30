@@ -14,4 +14,4 @@ Summer 2020 Project
 
 ## Run:
 - Open `ChatLikeMe/android/` in Android Studio and run
-- Open folder in terminal and do `npx react-native start`
+- Open folder in project and do `npx react-native start`
