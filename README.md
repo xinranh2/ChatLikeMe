@@ -10,24 +10,24 @@ Summer 2020 Project
 
 ## Edit and create Pull Request:
 = git does not track empty directories, so follow this directory structure
-
-|....
-
-├───src
-
-│   ├───assets
-
-│   ├───components
-
-|   ├───services
-
-|         env.js
-
-|   ├───styles
-
-|   ├───view
-
-│   └───App.js // Main app
+.
+├── _config.yml
+├── _drafts
+│   ├── begin-with-the-crazy-ideas.textile
+│   └── on-simplicity-in-technology.markdown
+├── _includes
+│   ├── footer.html
+│   └── header.html
+├── _layouts
+│   ├── default.html
+│   └── post.html
+├── _posts
+│   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
+│   └── 2009-04-26-barcamp-boston-4-roundup.textile
+├── _data
+│   └── members.yml
+├── _site
+└── index.html
 
 
 - [Follow this guide](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
