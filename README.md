@@ -10,7 +10,7 @@ Summer 2020 Project
 
 ## Edit and create Pull Request:
 - git does not track empty directories, so follow this directory structure
-- [Go here for directory structure](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
+- [Go here for directory structure details](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
 ```
     .
     ├── src                   # Compiled files (alternatively `dist`)
