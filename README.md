@@ -24,7 +24,7 @@ Summer 2020 Project
     ...
 ```
 
-- [Follow this guide](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
+- [Read this guide](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)
 - Main app contents can be found in `src/`
 - Make sure to put Dialogflow API information in a new file `env.js` as shown above
 
