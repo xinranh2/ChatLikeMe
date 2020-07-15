@@ -5,7 +5,7 @@ Summer 2020 Project
 ## Build:
 - Fork repo
 - Clone the fork to your computer
-- `cd ChatLikeMe `
+- `cd ChatLikeMe/app_files `
 - `npm i`
 - `npx react-native link react-native-dialogflow`
 - `npx react-native link react-native-voice`
